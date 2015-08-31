@@ -1,0 +1,15 @@
+{
+  "name": "twibble.io",
+  "version": "0.0.0",
+  "authors": [
+    "zhangdhu <200715251@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

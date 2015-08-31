@@ -1,0 +1,102 @@
+p{margin:0 0 35px;font-size:20px;line-height:1.6;}
+
+.info{
+	display:table;
+	width:100%;
+	height:auto;
+	padding:100px 0;
+	text-align:center;
+	color:#fff;
+	background:url("../img/intro-bg-mtn.jpg") no-repeat bottom center scroll;
+	background-color:#000;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	height:1000px;
+}
+
+@media (min-width: 768px) {
+  .intro{
+		height: 100%;
+	}
+}
+@media (min-width: 767px){
+	.navbar {
+		padding: 20px 0;
+		background:none;
+	}	
+}
+a{
+	background:transparent;
+	color: #fff;
+	}a:active,
+a:hover{outline:0;}
+
+.intro-body{
+	display: table-cell;
+	vertical-align: middle;
+	color: #000;
+}
+
+h1{
+	font-size: 36px;
+}
+
+.gray-bg{
+	background-color: #f8f8f8;
+	padding-bottom: 80px;
+}
+
+.content-section{
+	padding-top: 100px;
+}
+
+.text-warning{
+	color: #E74C3C;
+}
+.fa-5x{
+	font-size: 5em;
+}
+
+.content-section{
+	padding-top: 100px;
+}
+
+.circle-image{
+	border-radius: 50%;
+	display: block;
+	border:5px solid #e3e3e3;
+}
+
+.section-pad{
+	margin-top: 80px;
+	font-size: 30px;
+}
+
+.navbar-fixed-top{
+	top: 0;
+	border-width: 0 0 1px;
+}
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+	max-height: 340px;
+}
+.navbar-fixed-top, .navbar-fixed-bottom{
+	position: absolute;
+}
+
+.download-section{
+	padding: 100px 0;
+	background-color: #28c3ab;
+}
+.download-section .btn-default{
+	background-color: transparent;
+	border: 2px solid #FFF;
+	color: #000;
+}
+.brand-heading{font-size:40px;color:#000;}.heading-switch{border-bottom:4px solid #E74C3C;}.intro-text{font-size:18px;}@media(min-width:767px){.intro{height:100%;padding:0;}.brand-heading{font-size:60px;}.intro-text{font-size:25px;}}.content-section{padding-top:100px;}.bg-gray{background-color:#f5f5f5;}.download-section{width:100%;padding:50px 0;color:#fff;background-color:#28c3ab;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;}
+.download-section .btn-default:hover,
+.download-section .btn-default:focus{border:2px solid #000;color:#fff;background-color:#000;}@media(min-width:767px){.download-section{padding:100px 0;}}.btn{text-transform:uppercase;font-family:Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;font-weight:400;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;transition:all .3s ease-in-out;}#contact a:hover{text-decoration:underline;}#contact .btn-default{border:2px solid #000;color:#000;background-color:transparent;}#contact .btn-default:hover,
+#contact .btn-default:focus{border:2px solid #000;outline:0;color:#fff;background-color:#000;text-decoration:none;}.btn-default{border:2px solid #000;color:#000;background-color:transparent;}.white-out .btn-default{border:2px solid #FFF;color:#FFF;}.btn-default:hover,
+.btn-default:focus{border:2px solid #000;outline:0;color:#FFF;background-color:#000;}
+
